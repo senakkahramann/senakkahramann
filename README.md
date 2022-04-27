@@ -2,7 +2,8 @@
 - 👀 I’m interested in front-end and mobile-development
 - 🌱 I’m currently learning Dart/Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me personal e-mail : aysenakahraman98@gmail.com
+-                             
 
 <!---
 senakkahramann/senakkahramann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
