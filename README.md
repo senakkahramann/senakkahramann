@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @senakkahramann
 - 👀 I’m interested in front-end and mobile-development
 - 💻 I’m currently learning Dart/Flutter
-- ✉️ How to reach me personal e-mail : aysenakahraman98@gmail.com
--                             
+- 🎓 I am studying computer programming at Ankara University.
+- ✉️ How to reach me personal e-mail : aysenakahraman98@gmail.com                            
 
 <!---
 senakkahramann/senakkahramann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
